@@ -1,4 +1,4 @@
-# Virtual Data Analyst Experience Program Accenture by Forage
+# Virtual Data Analyst Experience Program at Accenture by Forage
 
 ## Introduction
 This virtual internship provided a hands-on experience in data analysis, allowing to work on real-world data project and developing essential skills in data manipulation, visualization, and insights extraction.
