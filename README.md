@@ -3,10 +3,10 @@
 ## Introduction
 This virtual internship provided a hands-on experience in data analysis, allowing to work on real-world data project and developing essential skills in data manipulation, visualization, and insights extraction.
 
-During this virtual internship, I worked on a data analysis project for Accenture, a leading global professional services company. The project involves analyzing and interpreting datasets to gain valuable insights and present your findings to the team.
+During this virtual internship, I worked on a data analysis project for Accenture, a leading global professional services company. The project involves analyzing and interpreting datasets to gain valuable insights and present findings to the team.
 
 ## Project Overview
-The primary objective of the project is to analyze customer bheavior on social platform using provided datasets.
+The primary objective of the project was to analyze customer bheavior on social platform using provided datasets.
 
 ## Learnings
 
